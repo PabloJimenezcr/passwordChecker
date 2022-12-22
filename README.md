@@ -1,4 +1,5 @@
 Password strength checker with javascript, html and sass
 
-![GIF](https://user-images.githubusercontent.com/84550521/208549771-47146859-cd01-4495-b8a0-09bc23f73be4.gif)
+![GIF](https://user-images.githubusercontent.com/84550521/209187206-18ecaf11-0b72-46f6-b646-80beb4259b04.gif)
+
 
